@@ -1,0 +1,47 @@
+{
+    "menus": [
+      {
+        "id": 1,
+        "name": "Baso Urat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectusc",
+        "category": "Makanan",
+        "price": 10000,
+        "image": "foto/baso.webp"
+      },
+      {
+        "id": 2,
+        "name": "Jus Buah",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectusc",
+        "category": "Minuman",
+        "price": 7000,
+        "image": "foto/jus.png"
+      },
+      {
+        "id": 3,
+        "name": "Baso Urat",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectusc",
+        "category": "Makanan",
+        "price": 10000,
+        "image": "foto/baso.webp"
+      },
+      {
+        "id": 4,
+        "name": "Jus Buah",
+        "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam, delectusc",
+        "category": "Minuman",
+        "price": 7000,
+        "image": "foto/jus.png"
+      }
+    ],
+    "categories": [
+      {
+        "id": 1,
+        "name": "Makanan"
+      },
+      {
+        "id": 2,
+        "name": "Minuman"
+      }
+    ]
+  }
+  
